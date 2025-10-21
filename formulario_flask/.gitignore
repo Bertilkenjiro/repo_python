@@ -1,0 +1,13 @@
+# Arquivos temporários
+*.tmp
+*.log
+
+# Power BI
+*.pbix
+
+# Python
+__pycache__/
+*.ipynb_checkpoints/
+
+# Excel
+~$*.xlsx
